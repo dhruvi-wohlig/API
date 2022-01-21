@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "title": "hello",
+      "author": "vcdufe",
+      "id": 2
+    },
+    {
+      "title": "heli",
+      "author": "ewgewherh",
+      "id": 4
+    },
+    {
+      "title": "bibiregvk",
+      "author": "egterfewg",
+      "id": 5
+    },
+    {
+      "title": "lalala",
+      "author": "hahaha",
+      "id": 6
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
