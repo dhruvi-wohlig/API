@@ -25,7 +25,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Install vue-axios and axios
 ```
-npm -i vue vue-axios
+npm -i axios vue-axios
 ```
 
 ### Use Vue 2
