@@ -31,3 +31,6 @@ npm -i vue vue-axios
 ### Use Vue 2
 
 ### Use json-server for post and delete requests
+```
+json-server --watch db.json
+```
